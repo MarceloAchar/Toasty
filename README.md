@@ -4,6 +4,7 @@ toasty
 > Step 1. Add the JitPack repository to your build file
 
 ´´´ gradle
+
 	allprojects {
 		repositories {
 			...
@@ -13,6 +14,7 @@ toasty
   ´´´
 > Step 2. Add the dependency
   ´´´ gradle
+  
 	dependencies {
 	        implementation 'com.github.MarceloAchar:toasty:1.0.0'
 	}
